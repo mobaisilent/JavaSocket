@@ -1,6 +1,6 @@
 # JavaSocket
 
-## Introduction
+## Tutorial
 
 ### 介绍
 
@@ -16,8 +16,5 @@
 
 ### 待学清单
 
-1. Socket加密
-2. 将Socket服务映射到Web服务中
-3. Tomcat和Maven如何衔接起来运行
-4. JavaWeb如何和vue放一起？ 当然本身这就是脱离了前后端分离的思想，所以应该不详细展开呢？
-5. 不过将Socket数据流加入到其中应该不需要太多前端呢。
+1. tomcat中存在一个webchat项目，可以参考查阅，也可以看看其他几个项目。
+1. 先学习servlet
